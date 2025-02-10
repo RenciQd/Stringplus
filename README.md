@@ -55,7 +55,7 @@ Bonus assignment for extra points. It is necessary to implement the sscanf funct
 
 ## Part 5. Bonus. Implementation of special string processing functions
 
-Bonus assignment for extra points. You must implement some string processing functions from the String class (described [here](#special-string-processing-functions-from-the-string-class-in-c)):
+Bonus assignment for extra points. You must implement some string processing functions from the String class:
 - The functions must be placed in the s21_string.h library.
 - All of the requirements outlined in [the first part](#part-1-implementation-of-the-stringh-library-functions) are applied to functions implementation, 
   excluding the requirement to compare your implementation with the standard.
